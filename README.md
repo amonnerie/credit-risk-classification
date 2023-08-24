@@ -7,7 +7,7 @@ This project two techniques will be used to predict the creditworthiness of borr
 
 ## Results
 
-Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
+Here are the results:
 
 * Machine Learning Model 1:
   * Balanced Accuracy: 95.2%
